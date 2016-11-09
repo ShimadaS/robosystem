@@ -1,1 +1,3 @@
 #!/bim/bash
+
+echo test
